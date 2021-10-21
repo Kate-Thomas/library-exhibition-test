@@ -2,8 +2,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="BnF. Département des Manuscrits. Latin 18303"
-       author="JSTOR Labs team"
+       title="The Miracles of St Nicholas"
+       subtitle="BnF. Département des Manuscrits. Latin 18303"
+       author="Kate Thomas, British Library"
        banner="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v_detail.jpg" 
        layout="vertical">
 
@@ -21,7 +22,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-# The Miracles of St Nicholas
+## The Miracles of St Nicholas
 
 From the early Middle Ages onwards many monasteries produced libelli (small books), each of which contained the life of their patron saint. This illustrated copy includes the Life and Miracles of St Nicholas (d. c. 343), a bishop saint from Myra who was extremely popular in the East. When his relics were transferred from Myra to Bari in southern Italy in 1087, he became a popular saint in the West as well.  The deluxe manuscript was made towards the end of the 11th century, perhaps in the priory of St Arnoul de Crépy, north of Paris, founded between 935 and 943 by the lords of Crépy. Although most of its buildings have been destroyed, the priory is known to have had a chapel dedicated to St Nicholas.  This manuscript was digitised with the support of The Polonsky Foundation.[^1]
 
