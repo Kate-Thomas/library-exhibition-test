@@ -13,7 +13,7 @@
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q90"> <!-- Paris -->
 
 # Sample visual essay
 
@@ -39,7 +39,7 @@ This manuscript was digitised with the support of The Polonsky Foundation.[^1]
 ## Map
 
 This item was made in Paris.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q90" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
@@ -47,9 +47,9 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056038199.0x000001/manifest.json">
-<param ve-map center="Q36600" zoom="11">
+<param ve-map center="Q90" zoom="11">
 
-https://www.google.com/maps/@48.8589466,2.2769948,12z
+
 
 # References
 
