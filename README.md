@@ -19,7 +19,7 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056009767.0x000001/f31/manifest.json">
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056009767.0x000001/manifest.json">
 
 # Basic usage
 
@@ -32,7 +32,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v.jpg">
 
 ## Map
 
