@@ -44,12 +44,19 @@ This manuscript was made in the 11th century.  It is about Saint Nicholas of Myr
 <param ve-entity eid="Q44269">
 <param ve-entity eid="Q193563">
 
+<param ve-image 
+       label="Bibliothèque nationale de France" 
+       description="Photograph taken by Poulpy, from Wikipedia.org" 
+       license="Creative Commons Attribution-Share Alike 3.0 Unported" 
+       url="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v.jpg">
+
+https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_nationale_de_France_(site_Richelieu),_Paris_-_Salle_Ovale.jpg
+
 ## Multiple viewers
 
-The manuscript has been digitised in full on the Manuscrits Médiévaux website. Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
+The manuscript has been digitised in full on the Manuscrits Médiévaux website.  You can look at every single page in it.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
 <param ve-image 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
-<param ve-map center="Q90" zoom="11">
 
 
 
