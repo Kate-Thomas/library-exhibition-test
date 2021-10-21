@@ -2,9 +2,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="BnF. Département des Manuscrits. Latin 18303"
        author="JSTOR Labs team"
-       banner="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/arundel_ms_91_f107r.jpg" 
+       banner="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v_detail.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -41,10 +41,9 @@ This item was made in Paris.
 
 ## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+The manuscript has been digitised in full on the Manuscrits Médiévaux website.
 <param ve-image 
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056038199.0x000001/manifest.json">
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 <param ve-map center="Q90" zoom="11">
 
 
