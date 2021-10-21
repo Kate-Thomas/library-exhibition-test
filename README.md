@@ -18,7 +18,7 @@
 
 # Introduction
 
-This is a visual essay about a text called the Life of St Nicholas.  It features an 11th century manuscript made in Paris, which can be found in the Bibliothèque nationale de France.   Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
+This is a visual essay about a text called the Life of St Nicholas.  It features an 11th century manuscript made in Paris, which can be found in the Bibliothèque nationale de France.   Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
 <param ve-entity eid="Q7063"> <!-- 11th century -->
 <param ve-entity eid="Q90"> <!-- Paris -->
 <param ve-entity eid="Q193563"> <!-- Bibliothèque nationale de France -->
@@ -64,8 +64,9 @@ The manuscript has been digitised in full on the <a href="https://manuscrits-fra
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
        
+## How this was made
 
-
+This was made in Juncture.  Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 
 # References
 
