@@ -4,7 +4,7 @@
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=http://www.bl.uk/IllImages/BLStudio/mid/Addvarious/add_ms_5762_f028r.jpg" 
+       banner="http://www.bl.uk/IllImages/BLStudio/mid/Addvarious/add_ms_5762_f028r.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
