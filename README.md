@@ -14,6 +14,7 @@
 <param ve-entity eid="Q7063"> <!-- 11th century -->
 <param ve-entity eid="Q90"> <!-- Paris -->
 <param ve-entity eid="Q193563"> <!-- Bibliothèque nationale de France -->
+<param ve-entity eid="Q12554"> <!-- Middle Ages -->
 
 # Introduction
 
@@ -27,7 +28,7 @@ This is a visual essay about a text called the Life of St Nicholas.  It features
 ## The Miracles of St Nicholas
 
 From the early Middle Ages onwards many monasteries produced libelli (small books), each of which contained the life of their patron saint. This illustrated copy includes the Life and Miracles of St Nicholas (d. c. 343), a bishop saint from Myra who was extremely popular in the East. When his relics were transferred from Myra to Bari in southern Italy in 1087, he became a popular saint in the West as well.  The deluxe manuscript was made towards the end of the 11th century, perhaps in the priory of St Arnoul de Crépy, north of Paris, founded between 935 and 943 by the lords of Crépy. Although most of its buildings have been destroyed, the priory is known to have had a chapel dedicated to St Nicholas.  This manuscript was digitised with the support of The Polonsky Foundation.[^1]
-
+<param ve-entity eid="Q12554"> <!-- Middle Ages -->
 
 <param ve-image 
        label="The Life and Miracles of Saint Nicholas" 
