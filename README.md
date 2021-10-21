@@ -25,9 +25,11 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+From the early Middle Ages onwards many monasteries produced libelli (small books), each of which contained the life of their patron saint. This illustrated copy includes the Life and Miracles of St Nicholas (d. c. 343), a bishop saint from Myra who was extremely popular in the East. When his relics were transferred from Myra to Bari in southern Italy in 1087, he became a popular saint in the West as well. 
+
+The deluxe manuscript was made towards the end of the 11th century, perhaps in the priory of St Arnoul de Crépy, north of Paris, founded between 935 and 943 by the lords of Crépy. Although most of its buildings have been destroyed, the priory is known to have had a chapel dedicated to St Nicholas.
+
+This manuscript was digitised with the support of The Polonsky Foundation.[^1]
 <param ve-image 
        label="The Life and Miracles of Saint Nicholas" 
        description="Manuscript, 4th quarter of the 11th century" 
@@ -36,8 +38,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+This item was made in Paris.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
@@ -48,7 +49,9 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056038199.0x000001/manifest.json">
 <param ve-map center="Q36600" zoom="11">
 
+https://www.google.com/maps/@48.8589466,2.2769948,12z
+
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Medieval England and France, 700-1200](https://www.bl.uk/collection-items/bnf-the-life-and-miracles-of-st-nicholas)
 
