@@ -2,8 +2,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="The Miracles of St Nicholas"
-       subtitle="BnF. Département des Manuscrits. Latin 18303"
+       title="The Miracles of St Nicholas (BnF. Département des Manuscrits. Latin 18303)"
        author="Kate Thomas, British Library"
        banner="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v_detail.jpg" 
        layout="vertical">
@@ -11,10 +10,10 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q44269"> <!-- Saint Nicholas -->
 <param ve-entity eid="Q7063"> <!-- 11th century -->
 <param ve-entity eid="Q90"> <!-- Paris -->
+<param ve-entity eid="Q193563"> <!-- Bibliothèque nationale de France -->
 
 # Introduction
 
@@ -40,9 +39,10 @@ This item was made in Paris.  Lots of extra text here.  Lots of extra text here.
 
 ## Other information
 
-This manuscript was made in the 11th century.  It is about Saint Nicholas of Myra.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
+This manuscript was made in the 11th century.  It is about Saint Nicholas of Myra.  It is held by the Bibliothèque nationale de France.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
 <param ve-entity eid="Q7063">
 <param ve-entity eid="Q44269">
+<param ve-entity eid="Q193563">
 
 ## Multiple viewers
 
