@@ -39,7 +39,7 @@ This item was made in Paris.  Lots of extra text here.  Lots of extra text here.
 
 ## Other information
 
-This manuscript was made in the 11th century.  It is about Saint Nicholas of Myra.  It is held by the Bibliothèque nationale de France.  This image of the library was taken by Poulpy and is on Wikipedia.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
+This manuscript was made in the 11th century.  It is about Saint Nicholas of Myra.  It is held by the Bibliothèque nationale de France.  This image of the library was taken by Poulpy and is on Wikipedia.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.[^2]
 <param ve-entity eid="Q7063">
 <param ve-entity eid="Q44269">
 <param ve-entity eid="Q193563">
@@ -63,4 +63,5 @@ The manuscript has been digitised in full on the Manuscrits Médiévaux website.
 # References
 
 [^1]: [Medieval England and France, 700-1200](https://www.bl.uk/collection-items/bnf-the-life-and-miracles-of-st-nicholas)
+[^2]: [Bibliothèque nationale de France (site Richelieu), Paris - Salle Ovale, on Wikipedia](https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_nationale_de_France_(site_Richelieu),_Paris_-_Salle_Ovale.jpg)
 
