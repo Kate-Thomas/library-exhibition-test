@@ -16,7 +16,7 @@
 <param ve-entity eid="Q193563"> <!-- Bibliothèque nationale de France -->
 <param ve-entity eid="Q12554"> <!-- Middle Ages -->
 
-# Introduction
+## Introduction
 
 This is a visual essay about a text called the Life of St Nicholas.  It features an 11th century manuscript made in Paris, which can be found in the Bibliothèque nationale de France.   Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
 <param ve-entity eid="Q7063"> <!-- 11th century -->
