@@ -42,9 +42,9 @@ This item was made in Paris.  Paris is the capital of France. Here is a map of P
 <param ve-entity eid="Q90"> <!-- Paris -->
 <param ve-map center="Q90" zoom="11" prefer-geojson>
 
-## Other information
+## Where is the manuscript held?
 
-This manuscript was made in the 11th century.  It is about Saint Nicholas of Myra.  It is held by the Bibliothèque nationale de France.  This image of the library was taken by Poulpy and is on Wikipedia.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.[^2]
+This manuscript is held in the Bibliothèque nationale de France.  This image of the library was taken by Poulpy and is on Wikipedia.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.[^2]
 <param ve-entity eid="Q7063">
 <param ve-entity eid="Q44269">
 <param ve-entity eid="Q193563">
@@ -57,9 +57,9 @@ This manuscript was made in the 11th century.  It is about Saint Nicholas of Myr
 
 
 
-## Multiple viewers
+## Full manuscript
 
-The manuscript has been digitised in full on the <a href="https://manuscrits-france-angleterre.org">Manuscrits Médiévaux</a> website.  You can look at every single page in it.  Now I need to figure out how to display them all on this viewer.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
+The shelfmark of the manuscript is Latin 18303.  The manuscript has been digitised in full on the <a href="https://manuscrits-france-angleterre.org">Manuscrits Médiévaux</a> website.  You can look at every single page in it.  Now I need to figure out how to display them all on this viewer.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
 <param ve-image 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
