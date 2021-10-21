@@ -29,8 +29,8 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="The Life and Miracles of Saint Nicholas" 
+       description="Manuscript, 4th quarter of the 11th century" 
        license="public domain" 
        url="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v.jpg">
 
