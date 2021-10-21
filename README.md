@@ -17,7 +17,7 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
 <param ve-image 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
