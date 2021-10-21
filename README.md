@@ -39,7 +39,7 @@ This item was made in Paris.  Lots of extra text here.  Lots of extra text here.
 
 ## Other information
 
-This manuscript was made in the 11th century.  It is about Saint Nicholas of Myra.  It is held by the Bibliothèque nationale de France.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
+This manuscript was made in the 11th century.  It is about Saint Nicholas of Myra.  It is held by the Bibliothèque nationale de France.  This image of the library was taken by Poulpy and is on Wikipedia.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
 <param ve-entity eid="Q7063">
 <param ve-entity eid="Q44269">
 <param ve-entity eid="Q193563">
@@ -48,9 +48,9 @@ This manuscript was made in the 11th century.  It is about Saint Nicholas of Myr
        label="Bibliothèque nationale de France" 
        description="Photograph taken by Poulpy, from Wikipedia.org" 
        license="Creative Commons Attribution-Share Alike 3.0 Unported" 
-       url="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_nationale_de_France_(site_Richelieu),_Paris_-_Salle_Ovale.jpg">
 
-https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_nationale_de_France_(site_Richelieu),_Paris_-_Salle_Ovale.jpg
+
 
 ## Multiple viewers
 
