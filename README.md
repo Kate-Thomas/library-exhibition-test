@@ -48,7 +48,7 @@ This manuscript was made in the 11th century.  It is about Saint Nicholas of Myr
        label="Bibliothèque nationale de France" 
        description="Photograph taken by Poulpy, from Wikipedia.org" 
        license="Creative Commons Attribution-Share Alike 3.0 Unported" 
-       url="https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_nationale_de_France_(site_Richelieu),_Paris_-_Salle_Ovale.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Biblioth%C3%A8que_nationale_de_France_%28site_Richelieu%29%2C_Paris_-_Salle_Ovale.jpg">
 
 
 
