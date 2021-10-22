@@ -59,8 +59,8 @@ This manuscript is held in the Bibliothèque nationale de France.  This image of
 
 ## Full manuscript
 
-The shelfmark of the manuscript is Latin 18303.  The manuscript has been digitised in full on the <a href="https://manuscrits-france-angleterre.org">Manuscrits Médiévaux</a> website.  You can look at every single page in it.  Now I need to figure out how to display them all on this viewer.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
-<param ve-image 
+The shelfmark of the manuscript is Latin 18303.  The manuscript has been digitised in full on the <a href="https://manuscrits-france-angleterre.org">Manuscrits Médiévaux</a> website.  You can look at every single page in it.  Here you can see folio 3r, with a large initial S.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
+<param ve-image seq="7"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
        
