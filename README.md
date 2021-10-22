@@ -22,7 +22,7 @@ This is a visual essay about a text called the Life of St Nicholas.  It features
 <param ve-entity eid="Q7063"> <!-- 11th century -->
 <param ve-entity eid="Q90"> <!-- Paris -->
 <param ve-entity eid="Q193563"> <!-- Bibliothèque nationale de France -->
-<param ve-image 
+<param ve-image seq="13"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## The Miracles of St Nicholas
@@ -60,7 +60,7 @@ This manuscript is held in the Bibliothèque nationale de France.  This image of
 ## Full manuscript
 
 The shelfmark of the manuscript is Latin 18303.  The manuscript has been digitised in full on the <a href="https://manuscrits-france-angleterre.org">Manuscrits Médiévaux</a> website.  You can look at every single page in it.  Here you can see folio 3r, with a large initial S.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.  Lots of extra text here.
-<param ve-image seq="7"
+<param ve-image seq="6"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
        
