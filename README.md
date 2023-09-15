@@ -4,7 +4,7 @@
 <param ve-config 
        title="The Miracles of St Nicholas (BnF. Département des Manuscrits. Latin 18303)"
        author="Kate Thomas, British Library"
-       banner="https://www.bl.uk/britishlibrary/~/media/bl/global/medieval%20england%20and%20france/collection%20items/bnf_latin_18303_f001v_detail.jpg" 
+       banner="https://www.bl.uk/britishlibrary/~/media/bl/global/anglo%20saxons/collection%20items/tiberius-psalter-cotton_ms_tiberius_c_vi_f015v.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
